@@ -25,7 +25,7 @@ Below is a summary of all the tasks completed for othoba.com, presented in a tab
 | Test Case Summary           |
 | Test Plan                   |
 | Test Case (48)              |
-| Bug Report(3)               | 
+| Bug Report(2)               | 
 | Test Report                 | 
 | Test metrics                |
 | Mind Map                    |
@@ -60,12 +60,3 @@ A few sample test cases
 Partial mind map for [Othoba.com](https://www.othoba.com)
 
 ![mind-map_Othoba com](https://github.com/user-attachments/assets/e633535b-1cd4-4031-af63-06935983bbc0)
-
-
-
-
-
-
-
-
-
